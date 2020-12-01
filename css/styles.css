@@ -20,6 +20,9 @@ h3{
   font-family: 'Dosis', sans-serif;
   color:#11999E;
 }
+p{
+  line-height: 2;
+}
 a{
   color:#11999E;
   text-decoration: none;
@@ -27,6 +30,15 @@ a{
 a:hover{
   color:#EAF6F6;
 }
+hr{
+  border-style: dotted;
+  width:4%;
+  border-top: 0;
+  border-width: thick;
+  color:#c3aed6;
+  margin:100px auto;
+}
+
 .a-programmer{
   font-weight: normal;
 }
@@ -59,9 +71,6 @@ a:hover{
   padding: 30px;
   line-height: 2;
 
-}
-p{
-  line-height: 2;
 }
 .pro{
   text-decoration:underline;
@@ -107,7 +116,6 @@ p{
    text-align: center;
    margin:40px auto;
 }
-
 .BUTTON:hover {
    border: solid #9EA5AF 1px;
    background: #D8DFEB;
@@ -121,20 +129,6 @@ p{
    border-radius: 8px;
    text-decoration: none;
 }
-hr{
-  border-style: dotted;
-  width:4%;
-  border-top: 0;
-  border-width: thick;
-  color:#c3aed6;
-  margin:50px auto;
-}
 .AkshayPhoto{
   width:15%;
 }
-/* .skills-webdev-desc{
-  clear:left
-}
-.skills-ml-desc{
-  clear:right;
-} */
