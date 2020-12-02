@@ -1,2 +1,2 @@
 # Personal-Site
-Do checkout my [Personal-Site](https://akshayrajeev1503.github.io/Personal-Site/).
+Do checkout my [Personal-Site](https://akshayrajeev1503.github.io/Personal-Site/index.html).
